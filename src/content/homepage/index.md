@@ -1,11 +1,11 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
-  image: /images/banner-img.png
+  title: "Encontre seu imóvel na RINOCER"
+  content: "A imobiliária Rinocer destaca-se no mercado pela sua abordagem inovadora, comprometimento excepcional e expertise em proporcionar soluções imobiliárias personalizadas, refletindo a dedicação e profissionalismo do seu analista e desenvolvedor de sistemas."
+  image: /images/casas/foto13.jpg
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Buscar Imóveis
+    link: "#"
     enable: true
 
 ##key features
