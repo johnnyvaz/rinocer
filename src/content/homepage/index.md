@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Encontre seu imóvel na RINOCER"
-  content: "A imobiliária Rinocer destaca-se no mercado pela sua abordagem inovadora, comprometimento excepcional e expertise em proporcionar soluções imobiliárias personalizadas, refletindo a dedicação e profissionalismo do seu analista e desenvolvedor de sistemas."
+  title: "Permuta Real"
+  content: "A imobiliária Permuta Real destaca-se no mercado pela sua abordagem inovadora, comprometimento excepcional e expertise em proporcionar soluções imobiliárias personalizadas, refletindo a dedicação e profissionalismo do seu analista e desenvolvedor de sistemas."
   image: /images/casas/foto13.jpg
   button:
     label: Buscar Imóveis
